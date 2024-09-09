@@ -36,9 +36,9 @@ python csv_to_vanilla_i18n.py 1ouSogLBySSER3bi8pEuHVdi3-ODx-K1GzYSIp57EmmU
 
 You will find the results in the /vanilla-i18n folder.
 
-## Where are the translations stored?
+## How can I change or extend the translations?
 
-The translations are stored in this google sheet:
+The translations are stored in this google sheet. Feel free to edit or extend it.
 https://docs.google.com/spreadsheets/d/1ouSogLBySSER3bi8pEuHVdi3-ODx-K1GzYSIp57EmmU/edit?gid=0#gid=0
 
 ## Deactivate the virtual environment

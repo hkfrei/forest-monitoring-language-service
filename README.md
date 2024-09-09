@@ -38,3 +38,11 @@ You will find the results in ... forestmonitoring_language_service/vanilla-i18n
 
 The translations you will find in this google sheet:
 https://docs.google.com/spreadsheets/d/1ouSogLBySSER3bi8pEuHVdi3-ODx-K1GzYSIp57EmmU/edit?gid=0#gid=0
+
+## Deactivate the virtual environment
+
+When you are finished, you can deactivate the virtual environment.
+
+```
+conda deactivate
+```
